@@ -41,7 +41,7 @@ public class payment {
 		//execute the statement
 		preparedStmt.execute();
 		con.close();
-		output = "Inserted successfully";
+		output = "Your payment is successfull";
 		}
 		catch (Exception e)
 		{
