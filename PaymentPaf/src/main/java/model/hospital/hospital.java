@@ -1,7 +1,7 @@
-package model.kushan.PaymentPaf;
+package model.hospital;
 import java.sql.*;
 
-public class payment {
+public class hospital {
 	//A common method to connect to the DB
 		private Connection connect()
 		 {
